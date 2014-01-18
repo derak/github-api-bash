@@ -6,7 +6,7 @@ GitHub API v3 scripts
 #github_org_email_hooks.sh
 
 Use GitHub's API to loop through every repo in an organization and add an email service hook
-Has multi-page support for repos, not orgs
+Has multi-page support for repos, not orgs. For use with GitHub Enterprise.
 
 Auth token is read in from a separate file to make sure it is not committed into GitHub.
 
