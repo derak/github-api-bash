@@ -13,7 +13,7 @@
 # => ruby -e "$(curl -fsSL https://raw.github.com/mxcl/homebrew/go)"
 #
 # Derak Berreyesa
-# derak.berreyesa@gmail.com
+# github.com/derak
 ########################################################################
 
 url="https://github.office.my_company.com/api/v3"
